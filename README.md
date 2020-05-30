@@ -395,6 +395,6 @@ To the extent possible under law, [Younggun Cho](https://github.com/youngguncho)
 
 
 ## More
-Edit by XuSengpan:
-Complex Urban  KAIST-IRAP 2018 is an important dataset, in which, two 3D Lidar（Left and right) and two 2D Lidar (Front and back), and Camera data as well as navigation sensor data with commercial-level accuracy and high-level accuracy are provide.
+Edit by XuSengpan:  
+Complex Urban  KAIST-IRAP 2018 is an important dataset, in which, two 3D Lidar（Left and right) and two 2D Lidar (Front and back), and Camera data as well as navigation sensor data with commercial-level accuracy and high-level accuracy are provided.  
 Paper: Complex urban dataset with multi-level sensors from highly diverse urban environments.
